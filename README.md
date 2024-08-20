@@ -20,6 +20,6 @@ Good luck.
 
 ## Solvers:
 
-Submit your .sol exploit file along with your CV at https://hacken.peopleforce.io/careers/v/80005-junior-smart-contract-auditor.
+Submit the link to your .sol exploit file via Google Drive, OneDrive, or any other file-sharing platform, along with your CV to https://hacken.peopleforce.io/careers/v/80005-junior-smart-contract-auditor
 
 Deadline: 27 August 2024.
