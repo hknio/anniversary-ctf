@@ -36,7 +36,7 @@ function externalSafeApprove(uint256 amount) external returns (bool) {
 
 In order to send ether to contract inside the `simpleStrategy.usdcAddress()`, then the usdcAddress will be a function that change state.
 
-However, this line would means that the simpleStrategy.usdcAddress can't must be either a view function or view property
+However, the following line would means that the simpleStrategy.usdcAddress must be either a view function or view property
 
 ```solidity
 SimpleStrategy public simpleStrategy;
